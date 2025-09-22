@@ -2,7 +2,7 @@ import { Client, GatewayIntentBits, Events } from 'discord.js';
 
 // ⚠️ ACHTUNG: Token hier DIREKT eintragen (nur zum Testen!)
 // Besser später wieder .env nutzen, damit der Token nicht im Code steht.
-const TOKEN = "MTQxOTY4NDAyNzQwOTEwOTAwMg.GJ0nq6.nW5o3aZaL95EFY3x0M6THcvPqC64i6kGDWpOHQ";
+const TOKEN = "MTQxOTY4NDAyNzQwOTEwOTAwMg.GxfT07.tb9v0qQnEWonDit9ag-JAgRxtifpbiqqgkQAl0";
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
